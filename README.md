@@ -9,10 +9,12 @@ basic oop &amp; some exercises
   + static trong class
   + friend fuction, friend class
   + nạp chồng toán tử
+
 -Tính kế thừa:
-+ access modifier
-+ ghi đè hàm
-+ thứ tự khởi tạo và hủy của các class kế thừa nhau
-+ các dạng kế thừa: multilevel, multiple, hierachical,
-- Tính đa hình & trừu tượng:
-+ phương thức ảo & thuần ảo
+ + access modifier
+ + ghi đè hàm
+ + thứ tự khởi tạo và hủy của các class kế thừa nhau
+ + các dạng kế thừa: multilevel, multiple, hierachical.
+
+-Tính đa hình & trừu tượng:
+ +phương thức ảo & thuần ảo
